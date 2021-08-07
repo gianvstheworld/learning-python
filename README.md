@@ -15,14 +15,14 @@ Projeto de alguns jogos usando Python, os quais podem ser jogados por qualquer u
 
 <p align="center">
     <a href="#Inspiração">Inspiração</a> •
-    <a href="#Technologias">Technologias</a>
+    <a href="#Tecnologias">Tecnologias</a>
 
 </p>
 
-### Inspiration
+### Inspiração
 
 Esse projeto foi inspirado no curso de programação em Python da plataforma Alura, a qual é conhecida por ser muito influente no desenvolvimento de programadores no Brasil. Sendo assim, pode-se concluir que essa aplicação do projeto é apenas para ter um desenvolvimento inicial na linguagem.
 
-### Technologies
+### Tecnologias
 
 - Python
